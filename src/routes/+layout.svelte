@@ -4,9 +4,9 @@
 
 <slot></slot>
 
-<div>
+<nav>
     <a href="/">Home</a>
     <a href="/about">About</a>
-    <a href="/contacts">Contacts</a>
-
-</div>
+    <a href="/projects">Projects</a>
+    <a href="/contact">Contact</a>
+  </nav>
